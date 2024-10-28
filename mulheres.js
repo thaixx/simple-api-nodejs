@@ -11,28 +11,6 @@ app.use(express.json())
 app.use(cors())
 const porta = 3333;
 
-// const mulheres = [
-//     {
-//         id: '1',
-//         nome: 'Thaixx Machado',
-//         imagem:'https://media.licdn.com/dms/image/v2/D4D03AQHMUmXh72i-2Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1671827062987?e=1733356800&v=beta&t=S_CbQKXBdLxtSsnLIjCp24KCy8bZwQIDGM8acuwjmZg',
-//         minibio: 'QA e Física',
-//     },
-//     {
-//         id: '2',
-//         nome: ' Simara Conceição',
-//         imagem:'https://bit.ly/3LJIyOF',
-//         minibio: 'Desenvolvedora e instrutora',
-//     },
-//     {
-//         id: '3',
-//         nome: 'Iana Chan',
-//         imagem:'https://bit.ly/3JCXBqP',
-//         minibio: 'CEO & Founder da PrograMaria',
-//     }
-// ]
-//GET
-
 
 async function mostraMulheres(resquest, response) {
     try {
