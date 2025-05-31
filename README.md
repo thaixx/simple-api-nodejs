@@ -32,10 +32,10 @@ This is a simple RESTful API built with Node.js and Express.js. It includes basi
 git clone https://github.com/thaixx/simple-api-nodejs.git
 cd simple-api-nodejs
 
-#Install dependencies with:
+2. Install dependencies with:
 npm install
 
-#Start the application
+3. Start the application
 npm run dev
 
 
