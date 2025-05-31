@@ -31,12 +31,19 @@ This is a simple RESTful API built with Node.js and Express.js. It includes basi
 ```bash
 git clone https://github.com/thaixx/simple-api-nodejs.git
 cd simple-api-nodejs
+```
 
 2. Install dependencies with:
+   
+```bash
 npm install
+```
 
 3. Start the application
+
+```bash
 npm run dev
+```
 
 
 
